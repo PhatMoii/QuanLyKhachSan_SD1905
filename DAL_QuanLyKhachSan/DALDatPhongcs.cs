@@ -136,11 +136,6 @@ namespace DAL_QuanLyKhachSan
 
         }
 
-
-
-
-
-
         public void deleteHoaDon(string HoaDon)
         {
             try

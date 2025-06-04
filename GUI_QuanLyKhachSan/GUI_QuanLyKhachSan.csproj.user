@@ -13,6 +13,12 @@
     <Compile Update="frmLoaiPhong.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmLogin05.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain05.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="frmMainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -27,6 +33,12 @@
     </Compile>
     <Compile Update="frmPhong.cs">
       <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl1Main05.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl2Main05.cs">
+      <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
 </Project>

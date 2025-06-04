@@ -1,0 +1,17 @@
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\bin\Debug\net8.0\BLL_QuanLyKhachSan.deps.json
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\bin\Debug\net8.0\BLL_QuanLyKhachSan.dll
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\bin\Debug\net8.0\BLL_QuanLyKhachSan.pdb
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\bin\Debug\net8.0\DAL_QuanLyKhachSan.dll
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\bin\Debug\net8.0\DTO_QuanLyKhachSan.dll
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\bin\Debug\net8.0\DAL_QuanLyKhachSan.pdb
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\bin\Debug\net8.0\DTO_QuanLyKhachSan.pdb
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\obj\Debug\net8.0\BLL_QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\obj\Debug\net8.0\BLL_QuanLyKhachSan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\obj\Debug\net8.0\BLL_QuanLyKhachSan.AssemblyInfoInputs.cache
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\obj\Debug\net8.0\BLL_QuanLyKhachSan.AssemblyInfo.cs
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\obj\Debug\net8.0\BLL_QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\obj\Debug\net8.0\BLL_Quan.9C72AB71.Up2Date
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\obj\Debug\net8.0\BLL_QuanLyKhachSan.dll
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\obj\Debug\net8.0\refint\BLL_QuanLyKhachSan.dll
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\obj\Debug\net8.0\BLL_QuanLyKhachSan.pdb
+D:\Hoc tap\QuanLyKhachSan\BLL_QuanLyKhachSan\obj\Debug\net8.0\ref\BLL_QuanLyKhachSan.dll
